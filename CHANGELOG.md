@@ -2,28 +2,24 @@
 
 All notable changes to this project will be documented here.
 
-## 0.3.6 - not released yet
+## 0.3.6 - 26/07/2016
 
 ### community requests
 
-- remove organizations from sidebar [#7](https://github.com/gitscout/gitscout-feedback/issues/7) [#2](https://github.com/gitscout/gitscout-feedback/issues/2) [#17](https://github.com/gitscout/gitscout-feedback/issues/17)
-- push current user on top of filters lists [#18](https://github.com/gitscout/gitscout-feedback/issues/18)
+- define visible repos/organizations in the sidebar (in Preferences > Repositories) — This is the first step to let you reorder your repos/organizations and add extra repositories [#7](https://github.com/gitscout/gitscout-feedback/issues/7) [#2](https://github.com/gitscout/gitscout-feedback/issues/2) [#17](https://github.com/gitscout/gitscout-feedback/issues/17)
+- put current user on top of filter lists [#18](https://github.com/gitscout/gitscout-feedback/issues/18)
 
 ### bugfixes
 
 - edit/post new comments from todo tickets
 - fix missing emojis
 
-### new features
+### changes
 
-- define visible organizations/repositories in sidebar. This is the first step to let you reorder organizations and add extra repositories [#17](https://github.com/gitscout/gitscout-feedback/issues/17)
-
-### change
-
-- remove open issues badge from sidebar
-- update cogs, search, comment and issue meta icons
+- remove open issues number badge from sidebar
+- update cog, search, comment and issue meta icons
 - update settings tabs icons
-- update form's buttons design
+- update form buttons design
 
 
 ## 0.3.4 - 19/07/2016
