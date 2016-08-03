@@ -2,6 +2,27 @@
 
 All notable changes to this project will be documented here.
 
+## 0.3.8 - 02/08/2016
+
+### community requests
+
+- fix search text highlight/drag [#28](https://github.com/gitscout/gitscout-feedback/issues/28)
+- add redo functionality for text [#24](https://github.com/gitscout/gitscout-feedback/issues/24)
+
+### bugfixes
+
+- @mention list now include repository subscribers
+- do not display notification in dock icon for hidden repositories
+- reinforce upload security
+
+### new features
+
+- updated issues are reodered on notification
+- new look for comments from current user
+- added comment deletion
+- modal dialog to prevent user to close form while writing
+- active ticket is updated upon receiving a notification
+
 ## 0.3.6 - 26/07/2016
 
 ### community requests
