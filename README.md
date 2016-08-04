@@ -21,4 +21,6 @@ Contributors:
 [Kapulara](https://github.com/Kapulara), 
 [joellimberg](https://github.com/joellimberg), 
 [briannhinton](https://github.com/briannhinton), 
+[Daniel15](https://github.com/Daniel15), 
+[ForbesLindesay](https://github.com/ForbesLindesay), 
 [you?](https://github.com/gitscout/gitscout-feedback/issues/new)
