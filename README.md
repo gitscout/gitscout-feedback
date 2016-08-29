@@ -25,6 +25,8 @@ Contributors:
 [briannhinton](https://github.com/briannhinton),
 [Daniel15](https://github.com/Daniel15),
 [ForbesLindesay](https://github.com/ForbesLindesay),
-[quentez](https://github.com/quentez)
-[jeroldangarcia](https://github.com/jeroldangarcia)
+[quentez](https://github.com/quentez),
+[williambout](https://github.com/williambout),
+[jeroldangarcia](https://github.com/jeroldangarcia),
+[sparkdevelopment](https://github.com/sparkdevelopment),
 [you?](https://github.com/gitscout/gitscout-feedback/issues/new)
