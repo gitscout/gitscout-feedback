@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented here.
 
+## 0.4.0 - 29/08/2016
+
+### community requests
+
+- Keyboard navigation (up/down arrow keys) to navigate through issues [#33](https://github.com/gitscout/gitscout-feedback/issues/33)
+- Repositories quick switch [#31](https://github.com/gitscout/gitscout-feedback/issues/31)
+
+### bugfixes
+
+- Fix inline code block style in comments
+- Clear Github authorization window session on logout
+- Fix Issues Filter Box when label contains a semicolon [#35](https://github.com/gitscout/gitscout-feedback/issues/35)
+
+### new features
+
+- Add extra repositories to your list
+- Hit the `?` key to check out the shortcuts guide
+- various UI tweaks
+
+
 ## 0.3.8 - 02/08/2016
 
 ### community requests
