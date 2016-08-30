@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented here.
 
+## 0.4.2 - 31/08/2016
+
+### bugfixes
+
+- Fix broken icon in Settings Repositories section
+- Fix internal link color in issues comment
+- Enlarge Quick switcher clickable zone
+- Speed up form window opening
+- Fix left click + CMD key on an issue opens a new window [#11](https://github.com/gitscout/gitscout-feedback/issues/11)
+
+
 ## 0.4.0 - 29/08/2016
 
 ### community requests
