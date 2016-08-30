@@ -4,7 +4,7 @@ https://github.com/gitscout/gitscout-feedback/issues/new
 
 Thanks!  :heart:
 
-Visit [chanlog](./CHANGELOG.md) for latest update.
+Visit [changelog](./CHANGELOG.md) for latest update.
 
 ___
 
@@ -29,4 +29,5 @@ Contributors:
 [williambout](https://github.com/williambout),
 [jeroldangarcia](https://github.com/jeroldangarcia),
 [sparkdevelopment](https://github.com/sparkdevelopment),
+[gavinanthony](https://github.com/gavinanthony),
 [you?](https://github.com/gitscout/gitscout-feedback/issues/new)
