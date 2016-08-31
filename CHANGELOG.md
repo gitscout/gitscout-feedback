@@ -12,6 +12,10 @@ All notable changes to this project will be documented here.
 - Speed up form window opening
 - Fix left click + CMD key on an issue opens a new window [#11](https://github.com/gitscout/gitscout-feedback/issues/11)
 
+### community requests
+
+- Paste image from clipboard into comments [#39](https://github.com/gitscout/gitscout-feedback/issues/39)
+
 
 ## 0.4.0 - 29/08/2016
 
