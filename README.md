@@ -30,4 +30,5 @@ Contributors:
 [jeroldangarcia](https://github.com/jeroldangarcia),
 [sparkdevelopment](https://github.com/sparkdevelopment),
 [gavinanthony](https://github.com/gavinanthony),
+[julien-c](https://github.com/julien-c),
 [you?](https://github.com/gitscout/gitscout-feedback/issues/new)
