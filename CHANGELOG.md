@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented here.
 
+## 0.5.0 - 15/11/2016
+
+### community requests
+
+- Reactions!! :the_horns: [#41](https://github.com/gitscout/gitscout-feedback/issues/41)
+- Closed/Opened issues design [#27](https://github.com/gitscout/gitscout-feedback/issues/27)[30](https://github.com/gitscout/gitscout-feedback/issues/30)
+- New comment box composer [#26](https://github.com/gitscout/gitscout-feedback/issues/26)
+- Easy close issue [19](https://github.com/gitscout/gitscout-feedback/issues/19)
+- Notifications view [#3](https://github.com/gitscout/gitscout-feedback/issues/3)
+- Inline comment [#40](https://github.com/gitscout/gitscout-feedback/issues/40)
+- Manage owners/repositories from sidebar [#38](https://github.com/gitscout/gitscout-feedback/issues/38)
+
+### new features
+
+- Drafts: Now you can save new/edited ticket/comment as a draft :sunglasses:
+- From the Notifications panel you can easily switch from new notifcations to archived ones
+- A nifty `Mark all notifications as read` buttons, because to be honest, we all hate having a red dot notification thingie! :smile:
+
+
 ## 0.4.2 - 31/08/2016
 
 ### bugfixes
