@@ -6,7 +6,7 @@ All notable changes to this project will be documented here.
 
 ### community requests
 
-- Reactions!! :the_horns: [#41](https://github.com/gitscout/gitscout-feedback/issues/41)
+- Reactions!! :postal_horn: [#41](https://github.com/gitscout/gitscout-feedback/issues/41)
 - Closed/Opened issues design [#27](https://github.com/gitscout/gitscout-feedback/issues/27)[30](https://github.com/gitscout/gitscout-feedback/issues/30)
 - New comment box composer [#26](https://github.com/gitscout/gitscout-feedback/issues/26)
 - Easy close issue [19](https://github.com/gitscout/gitscout-feedback/issues/19)
