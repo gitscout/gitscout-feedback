@@ -18,10 +18,10 @@ All notable changes to this project will be documented here.
 
 ### community requests
 
-- Reactions!! :the_horns: [#41](https://github.com/gitscout/gitscout-feedback/issues/41)
-- Closed/Opened issues design [#27](https://github.com/gitscout/gitscout-feedback/issues/27)[30](https://github.com/gitscout/gitscout-feedback/issues/30)
+- Reactions!! :postal_horn: [#41](https://github.com/gitscout/gitscout-feedback/issues/41)
+- Closed/Opened issues design [#27](https://github.com/gitscout/gitscout-feedback/issues/27)/[#30](https://github.com/gitscout/gitscout-feedback/issues/30)
 - New comment box composer [#26](https://github.com/gitscout/gitscout-feedback/issues/26)
-- Easy close issue [19](https://github.com/gitscout/gitscout-feedback/issues/19)
+- Easy close issue [#19](https://github.com/gitscout/gitscout-feedback/issues/19)
 - Notifications view [#3](https://github.com/gitscout/gitscout-feedback/issues/3)
 - Inline comment [#40](https://github.com/gitscout/gitscout-feedback/issues/40)
 - Manage owners/repositories from sidebar [#38](https://github.com/gitscout/gitscout-feedback/issues/38)
