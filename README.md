@@ -31,4 +31,5 @@ Contributors:
 [sparkdevelopment](https://github.com/sparkdevelopment),
 [gavinanthony](https://github.com/gavinanthony),
 [julien-c](https://github.com/julien-c),
+[foOg](https://github.com/foOg),
 [you?](https://github.com/gitscout/gitscout-feedback/issues/new)

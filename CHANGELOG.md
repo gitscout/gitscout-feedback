@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented here.
 
+## 0.5.2 - 15/11/2016
+
+### bugfixes
+
+- Users without personnal repositories can not access to App
+- Display default message in search dropdown if no property in list like milestone
+- Explicit placeholder to comment
+
+### community requests
+
+- Close popup with ESC key [#43](https://github.com/gitscout/gitscout-feedback/issues/43)
+
 ## 0.5.0 - 15/11/2016
 
 ### community requests
