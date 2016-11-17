@@ -32,4 +32,6 @@ Contributors:
 [gavinanthony](https://github.com/gavinanthony),
 [julien-c](https://github.com/julien-c),
 [foOg](https://github.com/foOg),
+[oursroux](https://github.com/oursroux),
+[pierre-alain](https://github.com/pierre-alain),
 [you?](https://github.com/gitscout/gitscout-feedback/issues/new)
