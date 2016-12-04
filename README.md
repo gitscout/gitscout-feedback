@@ -34,4 +34,5 @@ Contributors:
 [foOg](https://github.com/foOg),
 [oursroux](https://github.com/oursroux),
 [pierre-alain](https://github.com/pierre-alain),
+[selfagency](https://github.com/selfagency),
 [you?](https://github.com/gitscout/gitscout-feedback/issues/new)
