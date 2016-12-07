@@ -2,6 +2,33 @@
 
 All notable changes to this project will be documented here.
 
+## 0.5.4 - 7/12/2016
+
+### community requests
+
+- Copy issue link [#51](https://github.com/gitscout/gitscout-feedback/issues/51)
+
+### bugfixes
+
+- fix case sensitive organization/repository name
+- fix error when adding a new repository
+- fix navigation between issues in notifications view
+- fix search reset
+- fix search pills with multiple quotes
+- fix search escape filters
+- fix add reactions to new comment
+- prevent reorder issues reorder when patch a ticket
+- Arrow keys [#53](https://github.com/gitscout/gitscout-feedback/issues/53)
+
+### new features
+
+- add optional spellcheck
+- auto-resize new comment form
+- Smart Timeline, merge or remove similar events in Issue activity feed
+- add navigation in the Image Viewer between images from the same comment
+- add pagination to search results
+- add subscribers in `@mention` list
+
 ## 0.5.2 - 15/11/2016
 
 ### bugfixes

@@ -1,3 +1,7 @@
+<p align="center">
+<img width="650" alt="Gitscout v0.5.0" src="https://cloud.githubusercontent.com/assets/279053/20976076/a7573f76-bca1-11e6-8353-1fa9e55de44e.png">
+</p>
+
 This repo is a place to report bugs, give feedback and share ideas on how we can improve Gitscout
 
 https://github.com/gitscout/gitscout-feedback/issues/new
@@ -34,4 +38,5 @@ Contributors:
 [foOg](https://github.com/foOg),
 [oursroux](https://github.com/oursroux),
 [pierre-alain](https://github.com/pierre-alain),
+[selfagency](https://github.com/selfagency),
 [you?](https://github.com/gitscout/gitscout-feedback/issues/new)
