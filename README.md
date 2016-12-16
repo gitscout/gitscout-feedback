@@ -2,9 +2,9 @@
 <img width="650" alt="Gitscout v0.5.0" src="https://cloud.githubusercontent.com/assets/279053/20976076/a7573f76-bca1-11e6-8353-1fa9e55de44e.png">
 </p>
 
-This repo is a place to report bugs, give feedback and share ideas on how we can improve Gitscout
+This repo is a place to report bugs, give feedback and share ideas on how we can improve Gitscout.
 
-https://github.com/gitscout/gitscout-feedback/issues/new
+[Share your feedback](https://github.com/gitscout/gitscout-feedback/issues/new) our [Download Latest Gitscout version](http://gitscout.local/marshmallows)
 
 Thanks!  :heart:
 
@@ -40,4 +40,8 @@ Contributors:
 [pierre-alain](https://github.com/pierre-alain),
 [selfagency](https://github.com/selfagency),
 [SamuAlfageme](https://github.com/SamuAlfageme),
+[mikemclin](https://github.com/mikemclin),
 [you?](https://github.com/gitscout/gitscout-feedback/issues/new)
+
+
+[Code of Conduct](http://contributor-covenant.org/version/1/2/0/)

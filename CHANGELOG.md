@@ -2,6 +2,27 @@
 
 All notable changes to this project will be documented here.
 
+## 0.5.6 - 16/12/2016
+
+### community requests
+
+- authentication in browser [#63](https://github.com/gitscout/gitscout-feedback/issues/63)
+- remove "user full access" permission [#81](https://github.com/gitscout/gitscout-feedback/issues/81)
+- mute repository notifications [#52](https://github.com/gitscout/gitscout-feedback/issues/52)
+
+### bugfixes
+
+- handle GitHub changes in `timeline` API
+- fix search pattern [#73](https://github.com/gitscout/gitscout-feedback/issues/73)
+- hide meta options based on permission [#50](https://github.com/gitscout/gitscout-feedback/issues/50)
+- prevent re-apply migrations [#89](https://github.com/gitscout/gitscout-feedback/issues/89)
+- fix 2FA by auth user in browser [#69](https://github.com/gitscout/gitscout-feedback/issues/69)
+
+### new features
+
+- prevent user to add a forked repositoy and propse original
+- search, add support for "no:" filter
+
 ## 0.5.4 - 7/12/2016
 
 ### community requests
