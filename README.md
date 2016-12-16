@@ -4,7 +4,7 @@
 
 This repo is a place to report bugs, give feedback and share ideas on how we can improve Gitscout.
 
-[Share your feedback](https://github.com/gitscout/gitscout-feedback/issues/new) our [Download Latest Gitscout version](http://gitscout.local/marshmallows)
+[Share your feedback](https://github.com/gitscout/gitscout-feedback/issues/new) or [Download Latest Gitscout version](http://gitscout.local/marshmallows)
 
 Thanks!  :heart:
 
