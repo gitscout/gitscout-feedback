@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented here.
 
+## 0.5.7 - 17/12/2016
+
+### bugfixes
+
+- fix account creation [#91](https://github.com/gitscout/gitscout-feedback/issues/91)
+
 ## 0.5.6 - 16/12/2016
 
 ### community requests
