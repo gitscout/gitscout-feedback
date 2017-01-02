@@ -2,6 +2,28 @@
 
 All notable changes to this project will be documented here.
 
+## 0.5.8 - 2/1/2017
+
+### community requests
+
+- images use 100% of the available width [#98](https://github.com/gitscout/gitscout-feedback/issues/98)
+- style inline code with a monospaced font [#102](https://github.com/gitscout/gitscout-feedback/issues/102)
+
+### bugfixes
+
+- fix left click + CMD key on an issue [#11](https://github.com/gitscout/gitscout-feedback/issues/11) [#103](https://github.com/gitscout/gitscout-feedback/issues/103)
+- fix app auto launch [#101](https://github.com/gitscout/gitscout-feedback/issues/101)
+- fix unassignable with uppercase logins [#100](https://github.com/gitscout/gitscout-feedback/issues/100)
+- fix 'Close Window' behavior [#75](https://github.com/gitscout/gitscout-feedback/issues/75)
+- fix mute repository with upper case
+
+### new features
+
+- new login screen
+- cristal clear account creation form
+- add links to privacy policy and account benefits
+- various UI tweaks
+
 ## 0.5.7 - 17/12/2016
 
 ### bugfixes
