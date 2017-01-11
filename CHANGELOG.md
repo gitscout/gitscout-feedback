@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented here.
 
+## 0.6.0 - 11/1/2017
+
+### community requests
+
+- filter notifications by `participating` [#3](https://github.com/gitscout/gitscout-feedback/issues/3)
+- refresh tickets/issues list/repository meta using `cmd+R` [#56](https://github.com/gitscout/gitscout-feedback/issues/56)
+
+### bugfixes
+
+- fixed typos [#108](https://github.com/gitscout/gitscout-feedback/issues/108)
+- fixed sync repository labels/milestones [#110](https://github.com/gitscout/gitscout-feedback/issues/110)
+- fixed milestones sorting
+
+### new features
+
+- improved `author` filtering
+- improved @mention suggestion list
+- saved search
+
 ## 0.5.8 - 2/1/2017
 
 ### community requests
@@ -11,11 +30,11 @@ All notable changes to this project will be documented here.
 
 ### bugfixes
 
-- fix left click + CMD key on an issue [#11](https://github.com/gitscout/gitscout-feedback/issues/11) [#103](https://github.com/gitscout/gitscout-feedback/issues/103)
-- fix app auto launch [#101](https://github.com/gitscout/gitscout-feedback/issues/101)
-- fix unassignable with uppercase logins [#100](https://github.com/gitscout/gitscout-feedback/issues/100)
-- fix 'Close Window' behavior [#75](https://github.com/gitscout/gitscout-feedback/issues/75)
-- fix mute repository with upper case
+- fixed left click + CMD key on an issue [#11](https://github.com/gitscout/gitscout-feedback/issues/11) [#103](https://github.com/gitscout/gitscout-feedback/issues/103)
+- fixed app auto launch [#101](https://github.com/gitscout/gitscout-feedback/issues/101)
+- fixed unassignable with uppercase logins [#100](https://github.com/gitscout/gitscout-feedback/issues/100)
+- fixed 'Close Window' behavior [#75](https://github.com/gitscout/gitscout-feedback/issues/75)
+- fixed mute repository with upper case
 
 ### new features
 
@@ -28,7 +47,7 @@ All notable changes to this project will be documented here.
 
 ### bugfixes
 
-- fix account creation [#91](https://github.com/gitscout/gitscout-feedback/issues/91)
+- fixed account creation [#91](https://github.com/gitscout/gitscout-feedback/issues/91)
 
 ## 0.5.6 - 16/12/2016
 
@@ -41,10 +60,10 @@ All notable changes to this project will be documented here.
 ### bugfixes
 
 - handle GitHub changes in `timeline` API
-- fix search pattern [#73](https://github.com/gitscout/gitscout-feedback/issues/73)
+- fixed search pattern [#73](https://github.com/gitscout/gitscout-feedback/issues/73)
 - hide meta options based on permission [#50](https://github.com/gitscout/gitscout-feedback/issues/50)
 - prevent re-apply migrations [#89](https://github.com/gitscout/gitscout-feedback/issues/89)
-- fix 2FA by auth user in browser [#69](https://github.com/gitscout/gitscout-feedback/issues/69)
+- fixed 2FA by auth user in browser [#69](https://github.com/gitscout/gitscout-feedback/issues/69)
 
 ### new features
 
@@ -59,13 +78,13 @@ All notable changes to this project will be documented here.
 
 ### bugfixes
 
-- fix case sensitive organization/repository name
-- fix error when adding a new repository
-- fix navigation between issues in notifications view
-- fix search reset
-- fix search pills with multiple quotes
-- fix search escape filters
-- fix add reactions to new comment
+- fixed case sensitive organization/repository name
+- fixed error when adding a new repository
+- fixed navigation between issues in notifications view
+- fixed search reset
+- fixed search pills with multiple quotes
+- fixed search escape filters
+- fixed add reactions to new comment
 - prevent reorder issues reorder when patch a ticket
 - Arrow keys [#53](https://github.com/gitscout/gitscout-feedback/issues/53)
 
@@ -113,11 +132,11 @@ All notable changes to this project will be documented here.
 
 ### bugfixes
 
-- Fix broken icon in Settings Repositories section
-- Fix internal link color in issues comment
+- Fixed broken icon in Settings Repositories section
+- Fixed internal link color in issues comment
 - Enlarge Quick switcher clickable zone
 - Speed up form window opening
-- Fix left click + CMD key on an issue opens a new window [#11](https://github.com/gitscout/gitscout-feedback/issues/11)
+- Fixed left click + CMD key on an issue opens a new window [#11](https://github.com/gitscout/gitscout-feedback/issues/11)
 
 ### community requests
 
@@ -133,9 +152,9 @@ All notable changes to this project will be documented here.
 
 ### bugfixes
 
-- Fix inline code block style in comments
+- Fixed inline code block style in comments
 - Clear Github authorization window session on logout
-- Fix Issues Filter Box when label contains a semicolon [#35](https://github.com/gitscout/gitscout-feedback/issues/35)
+- Fixed Issues Filter Box when label contains a semicolon [#35](https://github.com/gitscout/gitscout-feedback/issues/35)
 
 ### new features
 
@@ -148,7 +167,7 @@ All notable changes to this project will be documented here.
 
 ### community requests
 
-- fix search text highlight/drag [#28](https://github.com/gitscout/gitscout-feedback/issues/28)
+- fixed search text highlight/drag [#28](https://github.com/gitscout/gitscout-feedback/issues/28)
 - add redo functionality for text [#24](https://github.com/gitscout/gitscout-feedback/issues/24)
 
 ### bugfixes
@@ -175,7 +194,7 @@ All notable changes to this project will be documented here.
 ### bugfixes
 
 - edit/post new comments from todo tickets
-- fix missing emojis
+- fixed missing emojis
 
 ### changes
 
@@ -197,7 +216,7 @@ All notable changes to this project will be documented here.
 
 ### bugfixes
 
-- fix issue state in search
+- fixed issue state in search
 - display all member of a repository [#16](https://github.com/gitscout/gitscout-feedback/issues/16) and [#5](https://github.com/gitscout/gitscout-feedback/issues/5)
 - markdown support for table and blockquote
 
