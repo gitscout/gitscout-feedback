@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented here.
 
+## 0.6.2 - 24/1/2017
+
+### community requests
+
+- reorder Orgs/Users in sidebar [#46](https://github.com/gitscout/gitscout-feedback/issues/46)
+- application self-update [#112](https://github.com/gitscout/gitscout-feedback/issues/112)
+- added link to give feedback/report bugs [#96](https://github.com/gitscout/gitscout-feedback/issues/96)
+
+### bugfixes
+
+- fixed `quit` behavior [#127](https://github.com/gitscout/gitscout-feedback/issues/127) [#134](https://github.com/gitscout/gitscout-feedback/issues/134)
+- fixed mouse to select some text from the search bar [#80](https://github.com/gitscout/gitscout-feedback/issues/80)
+- fixed upload warning modal
+- fixed a lot of typos
+
+### new features
+
+- customizable quick actions on issue swipe
+
 ## 0.6.0 - 11/1/2017
 
 ### community requests
