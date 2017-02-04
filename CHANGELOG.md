@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented here.
 
+## 0.6.4 - 1/2/2017
+
+### bugfixes
+
+- fixed navigation in search [#144](https://github.com/gitscout/gitscout-feedback/issues/144)
+- fixed new issue [#137](https://github.com/gitscout/gitscout-feedback/issues/137)
+
+### new features
+
+- notifications and saved issues groups are now based on repositories' sidebar order
+- added "bug report" to help diagnose and fix app's problems
+- quick actions such as _"mark as read"_ or _"unsave issue"_ collapse list's item [#95](https://github.com/gitscout/gitscout-feedback/issues/95)
+- various UI tweaks
+
+
 ## 0.6.2 - 24/1/2017
 
 ### community requests
