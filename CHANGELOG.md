@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented here.
 
-## 0.6.4 - 1/2/2017
+## 0.6.4 - 4/2/2017
 
 ### bugfixes
 
