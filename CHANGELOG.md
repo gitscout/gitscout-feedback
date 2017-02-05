@@ -11,7 +11,7 @@ All notable changes to this project will be documented here.
 
 ### new features
 
-- notifications and saved issues groups are now based on repositories' sidebar order
+- notifications and saved issues are now sorted the same way as the sidebar's repositories
 - added "bug report" to help diagnose and fix app's problems
 - quick actions such as _"mark as read"_ or _"unsave issue"_ collapse list's item [#95](https://github.com/gitscout/gitscout-feedback/issues/95)
 - various UI tweaks
