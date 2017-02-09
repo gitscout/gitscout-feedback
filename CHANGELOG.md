@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented here.
 
+## 0.6.5 - 7/2/2017
+
+- fixed notifications counter
+- fixed fetching notifications [#153](https://github.com/gitscout/gitscout-feedback/issues/153)
+- fixed issue's cross-reference [#146](https://github.com/gitscout/gitscout-feedback/issues/146)
+
+### bugfixes
+
 ## 0.6.4 - 4/2/2017
 
 ### bugfixes
