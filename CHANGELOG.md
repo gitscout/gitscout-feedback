@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented here.
 
+## 0.6.8 - 12/2/2017
+
+- fixed refresh views [#157](https://github.com/gitscout/gitscout-feedback/issues/157)
+- fixed resume notifications after sleep mode [#159](https://github.com/gitscout/gitscout-feedback/issues/159)
+- fixed load ticket's activity [#146](https://github.com/gitscout/gitscout-feedback/issues/146)
+
+## 0.6.6 - 9/2/2017
+
+- fixed hidden/muted notifications [#155](https://github.com/gitscout/gitscout-feedback/issues/155)
+
 ## 0.6.5 - 7/2/2017
 
 - fixed notifications counter
