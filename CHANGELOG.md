@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented here.
 
+## 1.0.0-rc-2 - 23/5/2017
+
+### hotfix
+
+- fixed reactions loader
+
 ## 1.0.0-rc-1 - 23/5/2017
 
 ### community requests
