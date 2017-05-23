@@ -2,6 +2,30 @@
 
 All notable changes to this project will be documented here.
 
+## 1.0.0-rc-1 - 23/5/2017
+
+### community requests
+
+- added HTML support to comments [#189](https://github.com/gitscout/gitscout-feedback/issues/189)
+- indicated closed milestones in search [#187](https://github.com/gitscout/gitscout-feedback/issues/187)
+- bpdated Growl notifications texts [#182](https://github.com/gitscout/gitscout-feedback/issues/182)
+
+### new features
+
+- brand new composer with Markdown live preview and keyboard shortcuts support [#150](https://github.com/gitscout/gitscout-feedback/issues/150)
+- added “vibrancy” to sidebar, because it looks cooler
+- added ability to collapse organizations repositories group in the sidebar
+- added ability to preview organizations reorder from the settings
+- added new menu popover
+- redesigned ticket header
+
+### bugfixes
+
+- preventing “failed to fetch” error which forced user to reopen app [#176](https://github.com/gitscout/gitscout-feedback/issues/176), [#192](https://github.com/gitscout/gitscout-feedback/issues/192)
+- fixed close app in fullscreen mode [#188](https://github.com/gitscout/gitscout-feedback/issues/188)
+- closing announcements window bug [#173](https://github.com/gitscout/gitscout-feedback/issues/173)
+- typo in “invalid repository access” [#175](https://github.com/gitscout/gitscout-feedback/issues/175)
+
 ## 0.6.8 - 12/2/2017
 
 - fixed refresh views [#157](https://github.com/gitscout/gitscout-feedback/issues/157)
